@@ -1,9 +1,0 @@
-Artificial intelligence is reshaping building energy use, especially through AI‑driven HVAC control. Reinforcement‑learning and model‑predictive‑control algorithms continuously learn from temperature sensors, weather forecasts and occupancy data, adjusting fan speeds, valve positions and set‑points in real time. Pilots in offices and campuses have reported electricity reductions of roughly 10–30 % versus conventional schedules, and the savings persist when models are retrained with on‑site sensor data [source needed].
-
-AI also improves fault detection. Supervised‑learning classifiers trained on historic fault patterns can identify sensor drift, refrigerant leaks or damper mis‑alignments with > 85 % precision [source needed], enabling technicians to fix issues before they cause unnecessary heating or cooling cycles.
-
-Occupancy awareness provides another lever. Edge‑processed camera or Wi‑Fi signals estimate room occupancy while preserving privacy; the building then lowers lighting and temperature in empty spaces, cutting load by 5–15 % [source needed]. Zone‑level occupancy counts above 90 % accuracy are achievable, though large atriums remain challenging [source needed].
-
-Digital twins—virtual replicas that fuse BIM models with live sensor streams—let engineers test retrofits or demand‑response events before implementation. Current platforms can predict whole‑building energy use within 5 % of actual consumption [source needed].
-
-Regulators are beginning to recognize AI‑enabled efficiency as a compliance pathway, offering extra credit in performance‑based codes [source needed]. Nonetheless, certification still requires transparent performance data, and standards for data‑privacy and algorithmic auditability are still evolving [source needed].
